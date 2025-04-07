@@ -15,7 +15,7 @@ FausfordAI works with businesses of all sizes to implement AI solutions that can
 	•	AI Research & Development: Pushing the boundaries of AI innovation by engaging in cutting-edge research.
 	•	Community Building: Creating an inclusive and supportive global network of AI professionals.
 
-Repository Overview
+## Repository Overview
 
 This repository serves as a central hub for FausfordAI’s open-source projects, tools, and resources that promote AI adoption and support AI learning. Here, you’ll find code repositories, educational material, research papers, and other resources that support our mission.
 
@@ -40,8 +40,8 @@ Depending on the resources or tools you are interested in, make sure to follow t
 pip install -r requirements.txt
 
 3. Start Contributing
-
 We welcome contributions to our projects! To contribute, please follow these steps:
+
 	1.	Fork the repository.
 	2.	Create a new branch (git checkout -b feature-branch).
 	3.	Make your changes.
