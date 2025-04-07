@@ -41,7 +41,6 @@ pip install -r requirements.txt
 
 3. Start Contributing
 We welcome contributions to our projects! To contribute, please follow these steps:
-
 	 1.	Fork the repository.
 	 2.	Create a new branch (git checkout -b feature-branch).
 	 3.	Make your changes.
