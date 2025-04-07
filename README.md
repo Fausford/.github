@@ -1,14 +1,14 @@
-# .github
+# FausfordAI 
 
-FausfordAI - Global AI Adoption & Mentorship
+Global AI Adoption & Mentorship
 
 Welcome to the official FausfordAI GitHub repository! FausfordAI is a global organization dedicated to driving the adoption of Artificial Intelligence (AI) in businesses and providing mentorship to AI enthusiasts across the world. Our mission is to help organizations harness the power of AI for growth and efficiency, while also empowering individuals to become skilled AI practitioners through mentorship and educational resources.
 
-About FausfordAI
+## About FausfordAI
 
 FausfordAI works with businesses of all sizes to implement AI solutions that can optimize operations, improve decision-making, and provide innovative business models. We believe in making AI accessible to everyone, which is why we also focus on supporting AI enthusiasts and helping them build their careers in AI.
 
-Our services include:
+## Our services include:
 	•	AI Consultation: Helping businesses integrate AI into their operations.
 	•	AI Training: Offering courses, workshops, and resources to businesses and individuals.
 	•	AI Mentorship: Connecting AI enthusiasts with mentors to help them grow in their careers.
@@ -25,7 +25,7 @@ Available Resources:
 	•	Research Papers: Publications that showcase the latest advancements in AI technologies.
 	•	Code Examples: Practical code snippets and applications to help businesses and individuals adopt AI faster.
 
-Getting Started
+## Getting Started
 
 To get started with using the resources in this repository, follow the steps below:
 
@@ -58,7 +58,7 @@ Please ensure that your contributions align with our guidelines:
 
 Interested in growing your AI skills? Apply for our mentorship program by signing up here.
 
-Community
+## Community
 
 Join the conversation and become a part of the global FausfordAI community! We encourage you to engage with us through the following platforms:
 	•	FausfordAI Website
