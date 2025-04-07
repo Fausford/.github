@@ -42,12 +42,12 @@ pip install -r requirements.txt
 3. Start Contributing
 We welcome contributions to our projects! To contribute, please follow these steps:
 
-	1.	Fork the repository.
-	2.	Create a new branch (git checkout -b feature-branch).
-	3.	Make your changes.
-	4.	Commit your changes (git commit -am 'Add new feature').
-	5.	Push to your branch (git push origin feature-branch).
-	6.	Create a pull request to the main branch of this repository.
+	 1.	Fork the repository.
+	 2.	Create a new branch (git checkout -b feature-branch).
+	 3.	Make your changes.
+	 4.	Commit your changes (git commit -am 'Add new feature').
+	 5.	Push to your branch (git push origin feature-branch).
+	 6.	Create a pull request to the main branch of this repository.
 
 Please ensure that your contributions align with our guidelines:
 	•	Write clear and descriptive commit messages.
