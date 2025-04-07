@@ -19,7 +19,7 @@ FausfordAI works with businesses of all sizes to implement AI solutions that can
 
 This repository serves as a central hub for FausfordAI’s open-source projects, tools, and resources that promote AI adoption and support AI learning. Here, you’ll find code repositories, educational material, research papers, and other resources that support our mission.
 
-Available Resources:
+### Available Resources
 	•	AI Tools: Libraries and tools developed by FausfordAI to assist in AI implementation.
 	•	Educational Resources: Tutorials, guides, and projects that provide hands-on experience with AI.
 	•	Research Papers: Publications that showcase the latest advancements in AI technologies.
