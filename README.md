@@ -50,9 +50,9 @@ We welcome contributions to our projects! To contribute, please follow these ste
 	 6.	Create a pull request to the main branch of this repository.
 
 Please ensure that your contributions align with our guidelines:
-	•	Write clear and descriptive commit messages.
-	•	Ensure your code adheres to the existing code style.
-	•	Add relevant tests where applicable.
+	 •	Write clear and descriptive commit messages.
+	 •	 Ensure your code adheres to the existing code style.
+	 •	Add relevant tests where applicable.
 
 4. Explore the Mentorship Program
 
@@ -61,10 +61,10 @@ Interested in growing your AI skills? Apply for our mentorship program by signin
 ## Community
 
 Join the conversation and become a part of the global FausfordAI community! We encourage you to engage with us through the following platforms:
-	•	FausfordAI Website
-	•	LinkedIn
-	•	Twitter
-	•	Slack Community
+	 •	FausfordAI Website
+	 •	LinkedIn
+	 •	Twitter
+	 •	Slack Community
 
 License
 
